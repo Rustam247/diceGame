@@ -1,0 +1,43 @@
+body{
+    background:linear-gradient(to right, #ac57f7, rgb(92, 78, 252));
+}
+.page{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    margin: 20px;
+    font-size: 6rem;
+    color: rgb(70, 54, 246);
+}
+.area{
+    margin: 0px 50px;
+    text-align: center;
+    display: inline-block;
+}
+p{
+    font-size: 1.5rem;
+    color:rgb(70, 54, 246);
+}
+
+img{
+    width: 320px;
+}
+
+.btnposision{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    background-color:rgb(227, 107, 248);
+    margin: 20px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
